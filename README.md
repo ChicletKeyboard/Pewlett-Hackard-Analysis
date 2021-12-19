@@ -5,9 +5,9 @@ Analyzing retirement data of fictional "Pewlett-Hackard" firm using Postgres SQL
 The purpose of this analysis is to create two tables: one to determine the number of retiring employees and their position titles, and the other to identify employees who are eligible to participate in a mentorship program. Within the first table, we included information such as employee number, first and last name, position title, and start and end date. In the second, we added employee number, first and last name, birth date, start and end date, and position title. 
 
 ## Results
-* The first table that determines the number of retiring employees and their position titles can be viewed here: [retiring_titles.csv]()
+* The first table that determines the number of retiring employees and their position titles can be viewed here: [retiring_titles.csv](https://github.com/ChicletKeyboard/Pewlett-Hackard-Analysis/blob/f51dc87553d0abaa78ca7f04b77d1ac533efbb1c/Data/retirement_titles.csv)
 
-* The second table that identifies employee who are eligible for the mentorship program can be viewed here: [mentorship_eligibility.csv]()
+* The second table that identifies employee who are eligible for the mentorship program can be viewed here: [mentorship_eligibility.csv](https://github.com/ChicletKeyboard/Pewlett-Hackard-Analysis/blob/f51dc87553d0abaa78ca7f04b77d1ac533efbb1c/Data/mentorship_eligibilty.csv)
 
 After analyzing the tables of retiring employees and those eligible for mentorships, we can see four key import insights about Pewlett-Hackard:
 
